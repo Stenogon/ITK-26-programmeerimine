@@ -12,7 +12,7 @@
             //kui muutuja name on tühi, siis väljustab konsoolile
             if (namer != "")
             {
-                Console.WriteLine(namer + " on meie täna pede!");
+                Console.WriteLine(namer + " on meie tänane pede!");
             }
             else
             {
