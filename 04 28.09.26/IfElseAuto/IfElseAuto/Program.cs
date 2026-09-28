@@ -76,7 +76,7 @@
             }
             else
             {
-                Console.WriteLine("HA, idikas. Sellist autod me ei müü!");
+               Console.WriteLine("HA, idikas. Sellist autod me ei müü!");
             }
         }
     }
