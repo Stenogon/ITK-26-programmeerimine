@@ -16,8 +16,6 @@ namespace IfElsemetorcal
             {
                 Console.WriteLine("that is trash");
             }
-
-            
         }
         static void HelloMethod()
         {
