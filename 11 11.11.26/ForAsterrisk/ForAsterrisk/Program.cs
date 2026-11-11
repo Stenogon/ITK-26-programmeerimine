@@ -11,7 +11,6 @@
             for (int i = 0; i < nr; i++)
             {
                 Console.WriteLine("*");
-                Console.WriteLine(361 * 2);
             }
         }
     }
